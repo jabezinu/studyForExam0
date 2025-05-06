@@ -1,4 +1,15 @@
 #bttn:hover{
     background: red
 }
-.yab em{color: red}
+.yab em{
+    color: #CCFFCC;
+    text-decoration: underline;
+}
+#yab1 {
+    /* background-position: right; */
+    /* margin: 2px;
+    padding: 2px: */
+    /* border:red; */
+    width:100px;
+    height: 100px;
+}
